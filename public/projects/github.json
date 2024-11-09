@@ -1,0 +1,34 @@
+[
+    {
+        "tag": ["All", "Github"],
+        "id": "windows-slim-builder",
+        "title": "Windows Slim Builder",
+        "description": "A Customizable Powershell Script that creates a trimmed-down Windows 11 iso image.",
+        "urlImageBanner": "/projects/github/slimbuilder/slimbuilder_readme.png",
+        "urlImages": [
+            "/projects/github/slimbuilder/slimbuilder_terminal.png",
+            "/projects/github/slimbuilder/slimbuilder_image_loading.png",
+            "/projects/github/slimbuilder/slimbuilder_edition_select.png",
+            "/projects/github/slimbuilder/slimbuilder_image_process.png",
+            "/projects/github/slimbuilder/slimbuilder_output.png"
+        ],
+        "urlSourceCode": "https://github.com/nivranaitsirhc/WindowsSlimBuilder",
+        "urlDownload": "https://github.com/nivranaitsirhc/WindowsSlimBuilder/releases/latest",
+        "urlInfo": "https://github.com/nivranaitsirhc/WindowsSlimBuilder?tab=readme-ov-file#windows-slim-builder",
+        "urlContents": "https://raw.githubusercontent.com/nivranaitsirhc/WindowsSlimBuilder/refs/heads/master/README.md"
+    },
+    {
+        "tag": ["All", "Github"],
+        "id": "dynamic-mount-manager-module",
+        "title": "Dynamic Mount Module for Magisk/KernelSU",
+        "description": "Magisk/KSU module to dynamically and intelligently mount an apk file at every start of the app process",
+        "urlImageBanner": "/projects/github/dynmountx/dynmountx_readme.png",
+        "urlImages": [
+            "/projects/github/dynmountx/dynmountx_readme.png"
+        ],
+        "urlSourceCode": "https://github.com/nivranaitsirhc/dynmountx/",
+        "urlDownload": "https://github.com/nivranaitsirhc/dynmountx/releases/latest",
+        "urlInfo": "https://github.com/nivranaitsirhc/dynmountx?tab=readme-ov-file#dynamic-mount-module-for-magisk-android",
+        "urlContents": "https://raw.githubusercontent.com/nivranaitsirhc/dynmountx/refs/heads/main/readme.md"
+    }
+]

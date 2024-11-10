@@ -5,8 +5,10 @@
     "title": "Product Sell Sheet (Word, Excel)",
     "description": "A Product Sell Sheet made using Word and Excel",
     "contents": " ## Product Sell Sheet \nA combination of MS Word and  MS Excel using mail-merge function",
-    "urlImagePreview": "/projects/office/fake_product_sell_sheet/preview.jpg",
-    "urlImages": ["/projects/office/fake_product_sell_sheet/preview.jpg"],
+    "urlImagePreview": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/fake_product_sell_sheet/preview.jpg",
+    "urlImages": [
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/fake_product_sell_sheet/preview.jpg"
+    ],
     "urlSourceCode": "",
     "urlPreview": "/projects/office/fake_product_sell_sheet/output.pdf",
     "urlDownload": "/docs/product_sell_sheet.rar"
@@ -16,8 +18,10 @@
     "id":"advance-excel-daily-time-record",
     "title": "Advance Daily Time Record (MS Excel)",
     "description": "A highly configurable DTR that automatically calculates Work-Hours/Overtime/Holidays and formats a printable paper and Disburment Voucher with all the required computations.",
-    "urlImagePreview": "/projects/office/dtr/DTR_MENU.jpg",
-    "urlImages": ["/projects/office/dtr/DTR_MENU.jpg"],
+    "urlImagePreview": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/dtr/DTR_MENU.jpg",
+    "urlImages": [
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/dtr/DTR_MENU.jpg"
+    ],
     "urlSourceCode": "",
     "urlPreview": "/projects/office/dtr/Advance DTR.pdf",
     "urlDownload": "/projects/office/dtr/Advance DTR.rar"
@@ -27,8 +31,10 @@
     "id":"excel-based-class-records",
     "title": "Class Records (MS Excel)",
     "description": "A class record grade sheet made from Excel that auto calculates the students performance based on predifined criteria.",
-    "urlImagePreview": "/projects/office/classrecords/classrecords.png",
-    "urlImages": ["/projects/office/classrecords/classrecords.png"],
+    "urlImagePreview": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/classrecords/classrecords.png",
+    "urlImages": [
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/classrecords/classrecords.png"
+    ],
     "urlSourceCode": "",
     "urlPreview": ""
   },
@@ -37,12 +43,12 @@
     "id":"kml-maker",
     "title": "KML Maker (MS Excel,VBA)",
     "description": "Excel Worksheet for converting 2G/3G/LTE/NR database dump into a KML file.",
-    "urlImagePreview": "/projects/office/ckm/ckm_dashboard.png",
+    "urlImagePreview": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/ckm/ckm_dashboard.png",
     "urlImages": [
-      "/projects/office/ckm/ckm_main.png",
-      "/projects/office/ckm/ckm_custom.png",
-      "/projects/office/ckm/ckm_data_nr.png",
-      "/projects/office/ckm/ckm_data_4g.png"
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/ckm/ckm_main.png",
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/ckm/ckm_custom.png",
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/ckm/ckm_data_nr.png",
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/ckm/ckm_data_4g.png"
     ],
     "urlSourceCode": "",
     "urlPreview": ""
@@ -52,11 +58,11 @@
     "id": "rf-parameters-calculator",
     "title": "RF Paramter Calculator (Google Sheet, Google Apps Scripts)",
     "description": "A Google Work Sheet heavily customized to generate a 2G Cellular Site Parameter configuration.",
-    "urlImagePreview": "/projects/office/rpc/rpc_dashboard.png",
+    "urlImagePreview": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/rpc/rpc_dashboard.png",
     "urlImages": [
-      "/projects/office/rpc/rpc_design.png",
-      "/projects/office/rpc/rpc_details.png",
-      "/projects/office/rpc/rpc_neighbors.png"
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/rpc/rpc_design.png",
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/rpc/rpc_details.png",
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/rpc/rpc_neighbors.png"
     ],
     "urlSourceCode": "",
     "urlPreview": "https://docs.google.com/spreadsheets/d/1wkVICFD8GY7Ct-3KJAZAaKV_CJnLOE3mxVL7p8zPKFc/edit?usp=sharing"
@@ -66,8 +72,10 @@
     "id":"ssv-master-tracker",
     "title": "SSV - Master Tracker (Google Sheet, Google Apps Scripts)",
     "description": "A System of interconnected Google Docs for simplifying the fragmented and repetitive task of Monitoring, Performance Request, Tun-out Overview, and Reporting Data.",
-    "urlImagePreview": "/projects/office/tracker/ssvtracker_info.png",
-    "urlImages": ["/projects/office/tracker/ssvtracker_info.png"],
+    "urlImagePreview": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/tracker/ssvtracker_info.png",
+    "urlImages": [
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/tracker/ssvtracker_info.png"
+    ],
     "urlSourceCode": "",
     "urlPreview": "",
     "urlInfo": "https://docs.google.com/presentation/d/1SxX6Kl3DuKVgT1vJLSPr8lk1DrFtuVhAnylWDm-1sdo/present?usp=sharing"

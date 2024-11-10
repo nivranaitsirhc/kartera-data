@@ -4,13 +4,13 @@
         "id": "windows-slim-builder",
         "title": "Windows Slim Builder",
         "description": "A Customizable Powershell Script that creates a trimmed-down Windows 11 iso image.",
-        "urlImagePreview": "/projects/github/slimbuilder/slimbuilder_readme.png",
+        "urlImagePreview": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/github/slimbuilder/slimbuilder_readme.png",
         "urlImages": [
-            "/projects/github/slimbuilder/slimbuilder_terminal.png",
-            "/projects/github/slimbuilder/slimbuilder_image_loading.png",
-            "/projects/github/slimbuilder/slimbuilder_edition_select.png",
-            "/projects/github/slimbuilder/slimbuilder_image_process.png",
-            "/projects/github/slimbuilder/slimbuilder_output.png"
+            "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/github/slimbuilder/slimbuilder_terminal.png",
+            "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/github/slimbuilder/slimbuilder_image_loading.png",
+            "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/github/slimbuilder/slimbuilder_edition_select.png",
+            "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/github/slimbuilder/slimbuilder_image_process.png",
+            "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/github/slimbuilder/slimbuilder_output.png"
         ],
         "urlSourceCode": "https://github.com/nivranaitsirhc/WindowsSlimBuilder",
         "urlDownload": "https://github.com/nivranaitsirhc/WindowsSlimBuilder/releases/latest",
@@ -22,9 +22,9 @@
         "id": "dynamic-mount-manager-module",
         "title": "Dynamic Mount Module for Magisk/KernelSU",
         "description": "Magisk/KSU module to dynamically and intelligently mount an apk file at every start of the app process",
-        "urlImagePreview": "/projects/github/dynmountx/dynmountx_readme.png",
+        "urlImagePreview": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/github/dynmountx/dynmountx_readme.png",
         "urlImages": [
-            "/projects/github/dynmountx/dynmountx_readme.png"
+            "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/github/dynmountx/dynmountx_readme.png"
         ],
         "urlSourceCode": "https://github.com/nivranaitsirhc/dynmountx/",
         "urlDownload": "https://github.com/nivranaitsirhc/dynmountx/releases/latest",

@@ -2,7 +2,7 @@
   {
     "tag": [
       "All",
-      "Office"
+      "MS Excel"
     ],
     "id": "advance-excel-daily-time-record",
     "title": "Advance Daily Time Record (MS Excel)",
@@ -25,7 +25,7 @@
   {
     "tag": [
       "All",
-      "Office"
+      "MS Excel"
     ],
     "id": "excel-based-class-records",
     "title": "Class Records (MS Excel)",
@@ -47,7 +47,7 @@
   {
     "tag": [
       "All",
-      "Office"
+      "MS Excel"
     ],
     "id": "kml-maker",
     "title": "KML Maker (MS Excel,VBA)",
@@ -68,7 +68,7 @@
   {
     "tag": [
       "All",
-      "Office"
+      "Google Sheets"
     ],
     "id": "rf-parameters-calculator",
     "title": "RF Paramter Calculator (Google Sheet, Google Apps Scripts)",
@@ -87,7 +87,7 @@
   {
     "tag": [
       "All",
-      "Office"
+      "Google Sheets"
     ],
     "id": "ssv-master-tracker",
     "title": "SSV - Master Tracker (Google Sheet, Google Apps Scripts)",

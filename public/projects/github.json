@@ -2,7 +2,7 @@
   {
     "tag": [
       "All",
-      "Github"
+      "PowerShell"
     ],
     "id": "windows-slim-builder",
     "title": "Windows Slim Builder",
@@ -26,7 +26,8 @@
   {
     "tag": [
       "All",
-      "Github"
+      "Magisk Module",
+      "KernelSU Module"
     ],
     "id": "dynamic-mount-manager-module",
     "title": "Dynamic Mount Module for Magisk/KernelSU",

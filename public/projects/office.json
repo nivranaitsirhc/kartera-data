@@ -9,18 +9,19 @@
     "description": "A highly configurable DTR that automatically calculates Work-Hours/Overtime/Holidays and formats a printable paper and Disburment Voucher with all the required computations.",
     "dateCreated": 1552521600000,
     "dateModified": 1573776000000,
-    "urlImagePreview": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/dtr/dtr_output_dtr.png",
+    "urlImagePreview": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/dtr/dtr_dtr.png",
     "urlImages": [
-      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/dtr/dtr_info.png",
-      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/dtr/dtr_dtr.png",
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/dtr/dtr_preview.png",
       "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/dtr/dtr_printdtr.png",
       "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/dtr/dtr_printdv.png",
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/dtr/dtr_info.png",
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/dtr/dtr_dtr.png",
       "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/dtr/dtr_output_dtr.png",
       "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/dtr/dtr_output_dv.png"
     ],
     "urlSourceCode": "",
     "urlPreview": "",
-    "urlDownload": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/dtr/CACCABO_DTR_VOUCHER_rev06_7.zip"
+    "urlDownload": ""
   },
   {
     "tag": [

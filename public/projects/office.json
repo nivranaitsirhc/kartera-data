@@ -2,6 +2,28 @@
   {
     "tag": [
       "All",
+      "Google Sheets"
+    ],
+    "id": "shared-expenses",
+    "title": "Shared Expenses - (Google Sheet)",
+    "description": "A configurable spreadsheet for easily calculating the expenses between between multiple tenants using different sharing styles (Equal Share, Fixed, and Sub-Metered with Aligment).",
+    "dateCreated": 1737294563283,
+    "dateModified": 1737294563283,
+    "urlImagePreview": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpense/preview.png",
+    "urlImages": [
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpense/preview.png",
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpense/bill-water.png",
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpense/bill-electricity.png",
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpense/calculations-non-metered.png",
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpense/calculations-metered.png"
+    ],
+    "urlSourceCode": "",
+    "urlPreview": "https://docs.google.com/spreadsheets/d/1G4vPJlfiQnKyDakvv3_n3C0w5dtwjeZ9vzos4oEsgQk",
+    "urlDownload": ""
+  },
+  {
+    "tag": [
+      "All",
       "MS Excel"
     ],
     "id": "advance-excel-daily-time-record",

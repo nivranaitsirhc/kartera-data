@@ -4,7 +4,9 @@
 A Spreadsheet for calculating utilities and other expenses with breakdown between multiple tenant/household/individual. <br/>
 
 <h3><a alt="Shared Expenses Demo" href="https://docs.google.com/spreadsheets/d/1G4vPJlfiQnKyDakvv3_n3C0w5dtwjeZ9vzos4oEsgQk">Shared Expenses Demo</a></h3>
-<em>Note: There might be a slight modification from what is available here as this is a live demonstration and is 0actively used.</em><br/>
+<em>Notes:<br/>
+- There might be a slight modification from what is available here. <br/>
+- This is a live demonstration and is actively used.</em><br/>
 
 ## Features 
 1. ✅ Supports multiple sharing types
@@ -19,12 +21,12 @@ A Spreadsheet for calculating utilities and other expenses with breakdown betwee
 - **Fixed** <br/>
 A fixed amount that an individual will share.
 - **Equal Share** <br/>
-Equally istribute the remaining balance between individuals using the same sharing type.
+Equally distribute the remaining balance between individuals using the same sharing type.
 - **Sub-Metered** <br/>
-<b>The most accurate.</b> Uses the billing info properties to calculate the right amount to be shared. <br/>
+<b>The most accurate!</b> <br/>
+Uses the billing info properties to calculate the right amount to be shared. <br/>
 Uses the sub-meter readings and calculate the proportionate amount versus the main meter. <br/>
-In an event that the sub-meter readings dates will not align, Shared Expenses will use what available reading dates are available <br/>
-to get the average daily and use it to generate the appropriate amount.<br/>
+In an event that the sub-meter readings dates will not align, Shared Expenses will use the available reading dates near the billing period and generate the appropriate amount.<br/>
 <em>Note: To ensure the best accuracy, use the available reading dates within the reading dates of the main meter.</em>
 
 ## Shared Expenses Parts
@@ -76,7 +78,7 @@ Configures all the relevant data for a particular tenant/household/individual.
 
   * <strong>Sub Meter Adjustment</strong> <br/>
   Where the sub-meter is re-calculated and adjusted to match the actual sub-meter reading. <br/>
-  This part will populated when <strong>Aligned</strong> is set to <strong>No</strong> and all the relevant data is present in <strong>Option - Metered (Sub-Meter)</strong> <br/>
+  This part will be populated when <strong>Aligned</strong> is set to <strong>No</strong> and all the relevant data is present in <strong>Option - Metered (Sub-Meter)</strong> <br/>
   ![Sub-Meter Adjustment](https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses/details/sub-meter-adjustment.png)<br/>
   <strong>How does it work?</strong> <br/>
     1. It works by getting the daily avarage consumption from the available used ```KW/H``` or <code>m<sup>3</sup></code> data from <strong>Option - Metered (Sub-Meter)</strong>. <br/>

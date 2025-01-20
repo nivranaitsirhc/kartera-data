@@ -4,6 +4,26 @@
       "All",
       "Google Sheets"
     ],
+    "id": "shared-expenses-housesharing",
+    "title": "Shared Expenses HouseSharing - (Google Sheet)",
+    "description": "A configurable spreadsheet for easily calculating the expenses between between multiple roomates/housemates using the daily usage style.",
+    "dateCreated": 1737405663112,
+    "dateModified": 1737405663112,
+    "urlImagePreview": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses-housesharing/preview.png",
+    "urlImages": [
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses-housesharing/bills-water.png",
+      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses-housesharing/bills-electricity.png"
+    ],
+    "urlSourceCode": "",
+    "urlPreview": "https://docs.google.com/spreadsheets/d/1eJ0lXSUKDponaNJYk9Fm5inqzodVqdUDFmaC2aFEaQ4",
+    "urlDownload": "",
+    "urlContents": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses-housesharing/details.md"
+  },
+  {
+    "tag": [
+      "All",
+      "Google Sheets"
+    ],
     "id": "shared-expenses",
     "title": "Shared Expenses - (Google Sheet)",
     "description": "A configurable spreadsheet for easily calculating the expenses between between multiple tenants using different sharing styles (Equal Share, Fixed, and Sub-Metered with Aligment).",

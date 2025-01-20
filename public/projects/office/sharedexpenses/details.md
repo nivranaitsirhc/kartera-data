@@ -29,7 +29,7 @@ Uses the sub-meter readings and calculate the proportionate amount versus the ma
 In an event that the sub-meter readings dates will not align, Shared Expenses will use the available reading dates near the billing period and generate the appropriate amount.<br/>
 <em>Note: To ensure the best accuracy, use the available reading dates within the reading dates of the main meter.</em>
 
-## Shared Expenses Parts
+## Shared Expenses Components
 - **Bill Records Sheet** <br/>
 Stores all the information regarding the bill, payment info, and sharing allotment. <br/>
   * <strong>Billing Records</strong> <br/>

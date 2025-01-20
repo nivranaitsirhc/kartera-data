@@ -11,7 +11,6 @@
     "dateModified": 1737294563283,
     "urlImagePreview": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses/preview.png",
     "urlImages": [
-      "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses/preview.png",
       "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses/bill-water.png",
       "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses/bill-electricity.png",
       "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses/calculations-non-metered.png",
@@ -19,7 +18,8 @@
     ],
     "urlSourceCode": "",
     "urlPreview": "https://docs.google.com/spreadsheets/d/1G4vPJlfiQnKyDakvv3_n3C0w5dtwjeZ9vzos4oEsgQk",
-    "urlDownload": ""
+    "urlDownload": "",
+    "urlContents": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses/details.md"
   },
   {
     "tag": [

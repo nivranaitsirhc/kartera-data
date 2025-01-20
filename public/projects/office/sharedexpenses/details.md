@@ -33,7 +33,7 @@ In an event that the sub-meter readings dates will not align, Shared Expenses wi
 - **Bill Records Sheet** <br/>
 Stores all the information regarding the bill, payment info, and sharing allotment. <br/>
   * <strong>Billing Records</strong> <br/>
-  Properties regaring the bill. It should show the billing dates, reading data, amount, overdue amount. <br/>
+  Properties regarding the bill. It should show the billing dates, reading data, amount, overdue amount. <br/>
   ![Billing Info](https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses/details/billing-info.png)<br/>
 
   * <strong>Bill Payment Info</strong> <br/>
@@ -41,7 +41,7 @@ Stores all the information regarding the bill, payment info, and sharing allotme
   ![Payment Info](https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses/details/payment-info.png)<br/>
 
   * <strong>Bill Allotment</strong> <br/>
-  Shows the breakdown of the bill amount with respect to each individuals individual sharing type configuration. <br/>
+  Shows the breakdown of the bill amount with respect to each individual sharing type configuration. <br/>
   ![Bill Allotment](https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses/details/bill-allotment.png)<br/>
 
   * <strong>Verification</strong> <br/>
@@ -70,10 +70,10 @@ Configures all the relevant data for a particular tenant/household/individual.
     Equal Share will use the value defined in ``(Equal Share) Individual Amount``. <br/>
     This value is computed from getting the total amount of non-sharing types and dividing this value the total sharing types. <br/>
     <b>Example:</b> <br/>
-    For the billing period of ``2024-Dec`` we have a total bill amount of ``2485.71``, ``1`` total of no. of Sharing Type, <br/> ``1`` total no. of Non-Sharing Type, and a total amount of ``700`` for the Non-Sharing Type. <br/>
-    Subtracting the total bill amount by the total amount of the non-sharing we get ``1785.71 = 2485.71 - 700`` to be shared equally by the sharing types. <br/>
-    Dividing this ``1785.71`` to the no. sharing type, we can get the individual share amount of ``1785.71 = 1785.71 / 1``. <br/>
-    <em>Note: Since we only have two tenant/household/individuals in this example the sole sharing individual will get the difference from the Fixed individual. </em> <br/>
+      - For the billing period of ``2024-Dec`` we have a total bill amount of ``2485.71``, ``1`` total of no. of Sharing Type, ``1`` total no. of Non-Sharing Type, and a total amount of ``700`` for the Non-Sharing Type. <br/>
+      - Subtracting the total bill amount by the total amount of the non-sharing we get ``1785.71 = 2485.71 - 700`` to be shared equally by the sharing types. <br/>
+      - Dividing this ``1785.71`` to the no. sharing type, we can get the individual share amount of ``1785.71 = 1785.71 / 1``. <br/>
+    <em>Note: Since we only have two tenant/household/individuals in this example the sole sharing individual will get the difference from the Fixed individual. </em> <br/><br/>
 
   * <strong>Option - Metered (Sub-Meter)</strong> <br/>
   This is where you set the relevant data if you are using the Sub-Meter Sharing Type. <br/>
@@ -95,11 +95,11 @@ Configures all the relevant data for a particular tenant/household/individual.
     1. It works by getting the daily avarage consumption from the available used ```KW/H``` or <code>m<sup>3</sup></code> data from <strong>Option - Metered (Sub-Meter)</strong>. <br/>
     2. Once a daily average is available, multiply it to the total reading days of the billing period. <br/>
     <b>Example:</b> <br/>
-    For billing period ``2024-Dec`` we have a ``29 days`` of reading period, and a sub-meter reading of ``141 KW/H`` with ``31 days`` of reading period. <br/>
-    Dividing ```141``` by ```31 days``` we get an average of ```4.55 KW/H``` daily consumption for the sub-meter. <br/>
-    Multiplying ```4.55 KW/H per Day``` to the no. reading period of  ```29 days```, our new adjusted KW/H will be ```131.95 KW/H = 4.55 KW/H/days x 29 days```. <br/>
-    In summary we adjusted the ```31 days``` of ```141 KW/H``` to ```29 days``` with ```131.95 KW/H``` to match the ```29 days``` reading period of the main meter. <br/>
-    - <em>Note: To get an accurate average, the reading dates must be not less than 50% of the reading days and must atleast be near the billing period of the main meter.</em> <br/>
+       - For billing period ``2024-Dec`` we have a ``29 days`` of reading period, and a sub-meter reading of ``141 KW/H`` with ``31 days`` of reading period. <br/>
+       - Dividing ```141``` by ```31 days``` we get an average of ```4.55 KW/H``` daily consumption for the sub-meter. <br/>
+       - Multiplying ```4.55 KW/H per Day``` to the no. reading period of  ```29 days```, our new adjusted KW/H will be ```131.95 KW/H = 4.55 KW/H/days x 29 days```. <br/>
+       - In summary we adjusted the ```31 days``` of ```141 KW/H``` to ```29 days``` with ```131.95 KW/H``` to match the ```29 days``` reading period of the main meter. <br/>
+       <em>Note: To get an accurate average, the reading dates must be not less than 50% of the reading days and must atleast be near the billing period of the main meter.</em> <br/><br/>
 
 - **Sub-Meter Reading Sheet** <br/>
 Contains all the sub-meter reading values and corresponding date for a specific tenant/household/individual. <br/>

@@ -1,9 +1,9 @@
 ![Shared Expenses Preview](https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses-housesharing/preview.png)
 
-# Shared Expenses - HouseSharing
+# Shared Expenses - House Sharing
 A Spreadsheet for calculating utilities and rent between individuals sharing a single house/apartment using daily usage style. <br/>
 
-<h3 style="font-size:2rem"><a alt="Shared Expenses - House Sharing Demo" href="https://docs.google.com/spreadsheets/d/1eJ0lXSUKDponaNJYk9Fm5inqzodVqdUDFmaC2aFEaQ4">Shared Expenses - House Sharing Demo</a></h3>
+<h3 style="font-size:1.5rem"><a alt="Shared Expenses - House Sharing Demo Link" href="https://docs.google.com/spreadsheets/d/1eJ0lXSUKDponaNJYk9Fm5inqzodVqdUDFmaC2aFEaQ4">Shared Expenses - House Sharing Demo Link</a></h3>
 
 
 ## Features 

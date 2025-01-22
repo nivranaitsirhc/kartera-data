@@ -3,7 +3,7 @@
 # Shared Expenses 
 A Spreadsheet for calculating utilities and other expenses with breakdown between multiple tenant/household/individual. <br/>
 
-<h3 style="font-size:3rem"><a alt="Shared Expenses Demo" href="https://docs.google.com/spreadsheets/d/1G4vPJlfiQnKyDakvv3_n3C0w5dtwjeZ9vzos4oEsgQk">Shared Expenses Demo</a></h3>
+<h3 style="font-size:2rem"><a alt="Shared Expenses Demo" href="https://docs.google.com/spreadsheets/d/1G4vPJlfiQnKyDakvv3_n3C0w5dtwjeZ9vzos4oEsgQk">Shared Expenses Demo</a></h3>
 <em><sup>
 Notes:<br/>
 - The demo above is active. <br/>

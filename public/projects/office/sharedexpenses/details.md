@@ -3,10 +3,12 @@
 # Shared Expenses 
 A Spreadsheet for calculating utilities and other expenses with breakdown between multiple tenant/household/individual. <br/>
 
-<h3><a alt="Shared Expenses Demo" href="https://docs.google.com/spreadsheets/d/1G4vPJlfiQnKyDakvv3_n3C0w5dtwjeZ9vzos4oEsgQk">Shared Expenses Demo</a></h3>
-<em>Notes:<br/>
-- There might be a slight modification from what is available here. <br/>
-- This is a live demonstration and is actively used.</em><br/>
+<h3 style="font-size:3rem"><a alt="Shared Expenses Demo" href="https://docs.google.com/spreadsheets/d/1G4vPJlfiQnKyDakvv3_n3C0w5dtwjeZ9vzos4oEsgQk">Shared Expenses Demo</a></h3>
+<em><sup>
+Notes:<br/>
+- The demo above is active. <br/>
+- There might be a subtle differences between what is available here and on the demo above. <br/>
+</sup></em>
 
 ## Features 
 1. ✅ Supports multiple sharing types
@@ -30,6 +32,13 @@ In an event that the sub-meter readings dates will not align, Shared Expenses wi
 <em>Note: To ensure the best accuracy, use the available reading dates within the reading dates of the main meter.</em>
 
 ## Shared Expenses Components
+- **Overview Sheet** <br/>
+A simple dashboard to view the monthly distribution.<br/>
+<sup><em>Note: Only added to show an overview of Rent Sheet.</em></sup>
+- **Rent Sheet** <br/>
+A custom Sheet to show the breakdown of utilities deductable to the payable rent. <br/>
+<sup><em>Note: Only added to calculate the rent of House A less the utilities of the other households to the Landlord.</em></sup>
+
 - **Bill Records Sheet** <br/>
 Stores all the information regarding the bill, payment info, and sharing allotment. <br/>
   * <strong>Billing Records</strong> <br/>

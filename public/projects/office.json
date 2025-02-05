@@ -26,7 +26,7 @@
       "Google Sheets"
     ],
     "id": "shared-expenses",
-    "title": "Shared Expenses - (Google Sheet)",
+    "title": "Shared Expense - (Google Sheet)",
     "description": "A configurable spreadsheet for easily calculating expenses between between multiple tenants using different sharing styles (Equal Share, Fixed, and Sub-Metered with Aligment).",
     "dateCreated": 1737294563283,
     "dateModified": 1737294563283,
@@ -41,7 +41,7 @@
       "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses/calculations-metered.png"
     ],
     "urlSourceCode": "",
-    "urlPreview": "https://docs.google.com/spreadsheets/d/1G4vPJlfiQnKyDakvv3_n3C0w5dtwjeZ9vzos4oEsgQk",
+    "urlPreview": "https://docs.google.com/spreadsheets/d/1liKtbvW-oMljUrOJy1Lcct8cEqztdc72fFnASS0OIs4",
     "urlDownload": "",
     "urlContents": "https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/office/sharedexpenses/details.md"
   },

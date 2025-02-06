@@ -7,9 +7,9 @@ A Spreadsheet for calculating utilities and rent between individuals sharing a s
 
 
 ## Features 
-1. ✅ Simply Fair & Square. Pay utilities only on your stay.
+1. ✅ Simple, Fair & Square. Pay utilities only on your stay.
 2. ✅ Breakdown utilities expenses by the amount of stay.
-3. ✅ Daily charges adjust accordingly to the number of people on that day.
+3. ✅ Daily charges adjust accordingly to the number of people on per day.
 
 ## Shared Expenses Components
 - **Stay/Attendance Sheet** <br/>

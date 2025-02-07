@@ -4,6 +4,7 @@
       "Google Sheets"
     ],
     "id": "shared-expenses-housesharing",
+    "owner": "CACCABO",
     "title": "Shared Expenses HouseSharing",
     "description": "A configurable spreadsheet for easily calculating expenses between between multiple roomates/housemates using the daily usage style.",
     "dateCreated": 1737405663112,
@@ -24,6 +25,7 @@
       "Google Sheets"
     ],
     "id": "shared-expenses",
+    "owner": "CACCABO",
     "title": "Shared Expense",
     "description": "A configurable spreadsheet for easily calculating expenses between between multiple tenants using different sharing styles (Equal Share, Fixed, and Sub-Metered with Aligment).",
     "dateCreated": 1737294563283,
@@ -48,6 +50,7 @@
       "MS Excel"
     ],
     "id": "advance-excel-daily-time-record",
+    "owner": "CACCABO",
     "title": "Advance Daily Time Record",
     "description": "A highly configurable DTR that automatically calculates Work-Hours/Overtime/Holidays and formats a printable paper and Disburment Voucher with all the required computations.",
     "dateCreated": 1552521600000,
@@ -71,6 +74,7 @@
       "MS Excel"
     ],
     "id": "excel-based-class-records",
+    "owner": "CACCABO",
     "title": "Class Records",
     "description": "A class record grade sheet made from Excel that auto calculates the students performance based on predifined criteria.",
     "dateCreated": 1620230400000,
@@ -93,6 +97,7 @@
       "MS Excel VB"
     ],
     "id": "kml-maker",
+    "owner": "CACCABO",
     "title": "KML Maker",
     "description": "Excel Worksheet for converting 2G/3G/LTE/NR database dump into a KML file.",
     "dateCreated": 1626048000000,
@@ -114,6 +119,7 @@
       "Google Apps Scripts"
     ],
     "id": "rf-parameters-calculator",
+    "owner": "CACCABO",
     "title": "RF Paramter Calculator",
     "description": "A Google Work Sheet heavily customized to generate a 2G Cellular Site Parameter configuration.",
     "dateCreated": 1655510400000,
@@ -133,6 +139,7 @@
       "Google Apps Script"
     ],
     "id": "ssv-master-tracker",
+    "owner": "CACCABO",
     "title": "SSV - Master Tracker",
     "description": "A System of interconnected Google Docs for simplifying the fragmented and repetitive task of Monitoring, Performance Request, Tun-out Overview, and Reporting Data.",
     "dateCreated": 1642982400000,

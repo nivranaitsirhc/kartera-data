@@ -1,7 +1,6 @@
 [
   {
     "tag": [
-      "All",
       "PowerShell"
     ],
     "id": "windows-slim-builder",
@@ -25,7 +24,6 @@
   },
   {
     "tag": [
-      "All",
       "Magisk/KSU Module"
     ],
     "id": "dynamic-mount-manager-module",

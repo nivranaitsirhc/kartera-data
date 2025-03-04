@@ -3,7 +3,7 @@
 
 
 # Xavier - Glass & Aluminum Services
-&nbsp;&nbsp;&nbsp;&nbsp;A minimalist single page web-site that both serves as a showroom and advertisement for a local Glass & Aluminum Fabiricator that highlights their skills and craftmanship.
+&nbsp;&nbsp;&nbsp;&nbsp;A minimalist single page website that both serves as a showroom and advertisement for a local Glass & Aluminum Fabiricator that highlights their skills and craftmanship.
 
 Visit the site: [Xavier GAS](https://xav-gas.vercel.app)
 

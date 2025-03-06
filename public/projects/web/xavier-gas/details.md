@@ -1,5 +1,3 @@
-<link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet"/>
-
 ![Xavier - GAS Preview](https://raw.githubusercontent.com/nivranaitsirhc/kartera-data/refs/heads/master/public/projects/web/xav-gas/preview.png)
 
 
